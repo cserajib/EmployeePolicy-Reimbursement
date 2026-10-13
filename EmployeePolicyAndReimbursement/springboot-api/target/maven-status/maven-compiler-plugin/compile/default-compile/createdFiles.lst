@@ -1,0 +1,6 @@
+com\marlabs\supportdesk\model\AnswerRequest.class
+com\marlabs\supportdesk\SupportdeskApplication.class
+com\marlabs\supportdesk\controller\SupportDeskController.class
+com\marlabs\supportdesk\model\Citation.class
+com\marlabs\supportdesk\service\PolicyService.class
+com\marlabs\supportdesk\model\AnswerResponse.class
